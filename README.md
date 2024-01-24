@@ -1,4 +1,4 @@
-# Machine Learning DFS Foundation X Dicoding
+# Machine Learning DBS Foundation X Dicoding
 
 Selamat datang di repository Machine Learning DFS Foundation X Dicoding! Repository ini adalah repo pribadi saya selaku peserta yang telah menyelesaikan program. repository ini berisi submission untuk menyelesaikan proyek akhir dalam rangka lulus dari akademi machine learning. Proyek ini melibatkan pengembangan program jaringan saraf tiruan menggunakan TensorFlow untuk mengenali bentuk tangan yang membentuk gunting, batu, atau kertas.
 
